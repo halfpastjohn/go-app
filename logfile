@@ -1,0 +1,24 @@
+2021-02-19 13:11:43.054 PST [18022] LOG:  starting PostgreSQL 13.2 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.29), 64-bit
+2021-02-19 13:11:43.056 PST [18022] LOG:  could not bind IPv6 address "::1": Address already in use
+2021-02-19 13:11:43.056 PST [18022] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-02-19 13:11:43.056 PST [18022] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2021-02-19 13:11:43.056 PST [18022] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-02-19 13:11:43.056 PST [18022] WARNING:  could not create listen socket for "localhost"
+2021-02-19 13:11:43.056 PST [18022] FATAL:  could not create any TCP/IP sockets
+2021-02-19 13:11:43.057 PST [18022] LOG:  database system is shut down
+2021-02-19 13:11:48.936 PST [18040] LOG:  starting PostgreSQL 13.2 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.29), 64-bit
+2021-02-19 13:11:48.938 PST [18040] LOG:  could not bind IPv6 address "::1": Address already in use
+2021-02-19 13:11:48.938 PST [18040] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-02-19 13:11:48.938 PST [18040] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2021-02-19 13:11:48.938 PST [18040] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-02-19 13:11:48.938 PST [18040] WARNING:  could not create listen socket for "localhost"
+2021-02-19 13:11:48.938 PST [18040] FATAL:  could not create any TCP/IP sockets
+2021-02-19 13:11:48.939 PST [18040] LOG:  database system is shut down
+2021-02-19 13:13:30.407 PST [18763] LOG:  starting PostgreSQL 13.2 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.29), 64-bit
+2021-02-19 13:13:30.408 PST [18763] LOG:  could not bind IPv6 address "::1": Address already in use
+2021-02-19 13:13:30.408 PST [18763] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-02-19 13:13:30.408 PST [18763] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2021-02-19 13:13:30.408 PST [18763] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-02-19 13:13:30.408 PST [18763] WARNING:  could not create listen socket for "localhost"
+2021-02-19 13:13:30.408 PST [18763] FATAL:  could not create any TCP/IP sockets
+2021-02-19 13:13:30.409 PST [18763] LOG:  database system is shut down
